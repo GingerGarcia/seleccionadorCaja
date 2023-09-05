@@ -1,0 +1,9 @@
+
+train: /content/drive/MyDrive/Caja/data/train
+val: /content/drive/MyDrive/Caja/data/valid 
+test: /content/drive/MyDrive/Caja/data/test
+# Classes
+nc: 1
+names: ['cardboard']
+ 
+
